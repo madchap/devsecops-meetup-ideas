@@ -1,4 +1,4 @@
-# Lausanne DevSecOps meetup, talk ideas.
+# [Lausanne DevSecOps meetup](https://www.meetup.com/Lausanne-DevSecOps-Meetup/), talk ideas.
 Simple repo of ideas for the next devsecops meetups, PRs welcome!
 
 # Ideas or categories of ideas, "en vrac"
@@ -15,11 +15,11 @@ Various categories or ideas for the DevSecOps meetup in Lausanne (or others ;-))
 - [ ] Mittn / burp demo
 - [ ] Compliance as code (i.e. inSpec)
 - [ ] Threat modeling and risk assessment the agile way
-- [ ] JVM security
-- [ ] Agile Risk Management
-- [ ] Security testing - Test Drive Security
-- [ ] AWS security (i.e. Serverless)
-- [ ] Web App Security within CI pipelines
+- [x] JVM security
+- [x] Agile Risk Management
+- [ ] Security testing - Test Driven Security
+- [ ] AWS security (i.e. Serverless? IAM tips and tricks, KMS, Secrets Manager, cloudmapper..)
+- [ ] App Security within CI pipelines (i.e. Snyk for deps, owasp zap baseline, etc..)
 - [ ] Docker image security scan in the CI pipeline (i.e. Clair or other)
 - [ ] Logging for security use-cases with Graylog
 
